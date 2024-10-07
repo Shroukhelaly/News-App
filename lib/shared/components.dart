@@ -36,7 +36,7 @@ class BuildArticleItem extends StatelessWidget {
               width: 10.0,
             ),
             Expanded(
-              child: Container(
+              child: SizedBox(
                 height: 120,
                 width: 120,
                 child: Column(
